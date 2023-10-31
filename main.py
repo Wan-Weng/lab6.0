@@ -14,6 +14,7 @@ def decoder(password):
     return decoded_password
 
 
+
 def print_menu():
     print("Menu")
     print("-------------")
